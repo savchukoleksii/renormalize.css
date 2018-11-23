@@ -1,0 +1,20 @@
+{
+  "name": "savchukoleksii/renormalized.css",
+  "version": "1.0.0",
+  "description": "Combined reset.css and normalize.css with some additional features",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savchukoleksii/renormalize.css.git"
+  },
+  "keywords": [
+    "reset.css",
+    "normalize",
+    "css"
+  ],
+  "author": "Oleksii Savchuk <savchukoleksii@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/savchukoleksii/renormalize.css/issues"
+  },
+  "homepage": "https://github.com/savchukoleksii/renormalize.css#readme"
+}
